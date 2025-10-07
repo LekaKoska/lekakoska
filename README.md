@@ -21,7 +21,6 @@ Here are some of my recent or learning-focused projects:
 ## What I'm Currently Learning
 - Advanced Laravel concepts.  
 - Writing effective tests using PHPUnit in Laravel.  
-- Deployment of Laravel apps to AWS EC2.  
 - Deepening knowledge of network protocols and how they connect with backend development.  
 
 ---
