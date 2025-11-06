@@ -15,6 +15,7 @@ Here are some of my recent or learning-focused projects:
 - Reservation systems with Laravel APIs.  
 - Exploring **RESTful API architecture** and testing with **Postman**.  
 - Movie project where I worked with **dummy data** to practice database structure, relationships, and building a simple movie listing application.
+- Chat application where i worked with Websockets and Laravel Reverb.   
 
 ---
 
