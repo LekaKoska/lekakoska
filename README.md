@@ -24,7 +24,7 @@ Here are some of my recent or learning-focused projects:
 - Writing effective tests using PHPUnit in Laravel.
 - Docker  
 - Deepening knowledge of network protocols and how they connect with backend development.  
-
+- Learning JavaScript with a focus on becoming a full-stack developer using Vue.js and Laravel.
 ---
 
 
