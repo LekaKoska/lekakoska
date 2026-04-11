@@ -20,11 +20,9 @@ Here are some of my recent or learning-focused projects:
 ---
 
 ## What I'm Currently Learning
-- Advanced Laravel concepts.  
-- Writing effective tests using PHPUnit in Laravel.
-- Docker  
-- Deepening knowledge of network protocols and how they connect with backend development.  
-- Learning **JavaScript** with a focus on becoming a **full-stack** developer using **React** and **Laravel**.
+- Continuous learning mindset — I actively follow industry trends and consistently improve my skills in backend and frontend development.
+- Modern frontend awareness — Familiar with modern tools and frameworks like React, Vue, and TailwindCSS, focusing on clean and responsive UI.
+- Clean and maintainable code approach — I prioritize writing readable, structured, and efficient code that is easy to understand and extend.
 ---
 
 
