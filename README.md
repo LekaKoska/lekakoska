@@ -15,7 +15,7 @@ Here are some of my recent or learning-focused projects:
 - Reservation systems with Laravel APIs.  
 - Exploring **RESTful API architecture** and testing with **Postman**.  
 - My personal portfolio: https://koska-alek.up.railway.app/
-- Chat application where i worked with **Websockets**, **Redis** and **Docker**
+- Chat application where i worked with **Websockets**, **Redis** and **Docker**  https://social-chat.free.laravel.cloud/
 
 ---
 
